@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "867ef2d6c5edb95c",
+    "type": "split",
+    "children": [
+      {
+        "id": "1788e4c2eb3c06ce",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Concepts/traking.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a501bda8bbc843a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f9c465f4689cc3f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "200a4f5c488e622e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6a5ddc3caf20b37f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "23a1f7f4c6d31fa2",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d986ee0e471f870",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c57f78686ebea2ed",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Concepts/traking.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1788e4c2eb3c06ce",
+  "lastOpenFiles": [
+    "Concepts/traking.md",
+    "Apps/Figari.md",
+    "Apps/NotifSender.md",
+    "Mantika migration.md",
+    "Concepts/Tools.md",
+    "template engine.md",
+    "Concepts/groups_api_key.md",
+    "Concepts/Vertical.md",
+    "Concepts/Matt.md",
+    "Concepts/groups_filters.md"
+  ]
+}
