@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Concepts/traking.md",
-            "mode": "preview",
+            "mode": "source",
             "source": false
           }
         }
@@ -90,14 +90,14 @@
   "active": "1788e4c2eb3c06ce",
   "lastOpenFiles": [
     "Concepts/traking.md",
+    "Apps/Communication Manager.md",
+    "Mantika migration.md",
     "Apps/Figari.md",
     "Apps/NotifSender.md",
-    "Mantika migration.md",
     "Concepts/Tools.md",
     "template engine.md",
     "Concepts/groups_api_key.md",
     "Concepts/Vertical.md",
-    "Concepts/Matt.md",
-    "Concepts/groups_filters.md"
+    "Concepts/Matt.md"
   ]
 }
